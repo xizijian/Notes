@@ -7,3 +7,6 @@
 #### [JS高阶函数用法](https://github.com/xizijian/Blog/blob/main/2021/JS%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0%E7%94%A8%E6%B3%95/js%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0%E7%94%A8%E6%B3%95.md)
 #### [git cherry-pick 用法](https://github.com/xizijian/Blog/wiki/git-cherry-pick-%E6%95%99%E7%A8%8B)
 #### [函数式编程](https://github.com/xizijian/Blog/wiki/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B)
+
+#### [RN环境搭建 及 CocoaPods 安装踩坑之路](https://github.com/xizijian/Blog/wiki/RN%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA-%E5%8F%8A-CocoaPods-%E5%AE%89%E8%A3%85%E8%B8%A9%E5%9D%91%E4%B9%8B%E8%B7%AF)
+
