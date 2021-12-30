@@ -18,7 +18,7 @@ Could not find a valid gem 'cocoapods' (>= 0), here is why:
 #### 2.ERROR:  Error installing cocoapods:
 	zeitwerk requires Ruby version >= 2.5.  报错
 
-![image-20211227150109360](/Users/mr.xi/Library/Application Support/typora-user-images/image-20211227150109360.png)
+![image-20211227150109360](image-20211227150109360.png)
 
 
 
@@ -30,7 +30,7 @@ Could not find a valid gem 'cocoapods' (>= 0), here is why:
 
 这是成功已经安装好了rvm 再执行rvm list known 可以看到所有可以安装的ruby版本，如图：
 
-![image-20211227150534222](/Users/mr.xi/Library/Application Support/typora-user-images/image-20211227150534222.png)
+![image-20211227150534222](image-20211227150534222.png)
 
 
 
@@ -60,5 +60,5 @@ Install the Command Line Tools:
 
 执行后，查看版本后，会判断已更新到最新版本。
 
-![image-20211227155853998](/Users/mr.xi/Library/Application Support/typora-user-images/image-20211227155853998.png)
+![image-20211227155853998](image-20211227155853998.png)
 
