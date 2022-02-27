@@ -165,3 +165,5 @@ Cherry pick 也支持转移另一个代码库的提交，方法是先将该库�
 （完）
 
 转自：[git cherry-pick教程][http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html]
+
+[http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html]: 

@@ -37,8 +37,6 @@ console.log(haoobj())
 
 ## js内存空间
 
-前面我有文章解释过如何应对js页面中的[内存泄露](http://www.haorooms.com/post/javascript_neicun_use)，但是并没有解释js内存空间的一些基础知识。下面我们先来理一下一个概念。
-
 ### 栈与堆
 
 其实js中没有严格意义区分栈内存和堆内存。但是我在理解的时候还是把他们分开了！我个人是如下理解的：
