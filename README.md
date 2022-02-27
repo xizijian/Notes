@@ -14,9 +14,9 @@
 #### [前端日常积累](https://github.com/xizijian/Blog/blob/main/2022/%E5%89%8D%E7%AB%AF%E6%97%A5%E5%B8%B8%E7%A7%AF%E7%B4%AF/%E5%89%8D%E7%AB%AF%E6%97%A5%E5%B8%B8%E7%A7%AF%E7%B4%AF.md)
 #### [面向对象三大特点回顾](https://github.com/xizijian/Blog/blob/main/2022/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B8%89%E5%A4%A7%E7%89%B9%E7%82%B9%E5%9B%9E%E9%A1%BE.md)
 
-#### [React相关知识][https://github.com/xizijian/Blog/tree/main/2022/React%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86]
+#### [React相关知识](https://github.com/xizijian/Blog/tree/main/2022/React%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86)
 
-#### [计算机及浏览器基础][https://github.com/xizijian/Blog/tree/main/2022/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%8A%E6%B5%8F%E8%A7%88%E5%99%A8%E5%9F%BA%E7%A1%80]
+#### [计算机及浏览器基础](https://github.com/xizijian/Blog/tree/main/2022/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%8A%E6%B5%8F%E8%A7%88%E5%99%A8%E5%9F%BA%E7%A1%80)
 
-#### [js相关基础][https://github.com/xizijian/Blog/tree/main/2022/JS%E7%9B%B8%E5%85%B3%E5%9F%BA%E7%A1%80]
+#### [js相关基础](https://github.com/xizijian/Blog/tree/main/2022/JS%E7%9B%B8%E5%85%B3%E5%9F%BA%E7%A1%80)
 
