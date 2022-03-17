@@ -68,7 +68,7 @@ var c = [1, 2, 3]; // 变量c存在于变量对象中也可以理解为栈，[1,
 
 ![enter image description here](http://www.haorooms.com/uploads/images/duiexp.png)
 
-复制之后是引用的复制。修改了堆里面的对象之后，n和m对应的是同一个对象，因此输出m.a会变成15
+复制之后是引用的复制。 和m对应的是同一个对象，因此输出m.a会变成15
 
 ## 关于this
 
